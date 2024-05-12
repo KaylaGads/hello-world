@@ -9,3 +9,6 @@ WEEK 4 - REMIX 'WE WALK TO YOU'
 https://glitch.com/edit/#!/shadowed-wide-sphere
 
 WEEK 6 - TWINE PRACTICE
+file:///Users/kaylagadaleta/Documents/Twine/Scratch/test-df8fb41d-118e-484a-8239-9459aa376ae2.html
+
+WEEK 7 - BITSY PRACTICE
